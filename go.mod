@@ -1,1 +1,1 @@
-module "github.com/kr/binarydist"
+module "github.com/junjiefly/binarydist"
